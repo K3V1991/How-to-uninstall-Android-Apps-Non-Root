@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/K3V1991/How-to-uninstall-Android-Apps-Non-Root/blob/main/Clean.png" width="150"></a>
-<h1 align="center"><b>How to uninstall Android Apps (NON-ROOT)</b></h1>
+<h1 align="center"><b>How to uninstall Android Apps (Non-Root)</b></h1>
 <h4 align="center">Uninstall Bloatware without Root Access (They are just being uninstalled for the current User)</h4>
 <hr />
 <br />
